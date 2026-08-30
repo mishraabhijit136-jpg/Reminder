@@ -1,0 +1,6 @@
+{
+  "name": "Daily Schedule & Sound Reminders",
+  "description": "Day-to-day schedule planner with customizable sound reminders, audio tones studio, task alarms, and dark mode interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
